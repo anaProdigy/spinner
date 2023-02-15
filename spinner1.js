@@ -28,4 +28,3 @@ setTimeout(() => {
   process.stdout.write('\r\\   ');
 }, 1300);
 
-// ... fill in the rest yourself ...
